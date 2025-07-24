@@ -1,0 +1,11 @@
+study_time	attendance	gender	score_2	70	Female	58,study_time	attendance	gender	score_3	80	Female	67,study_time	attendance	gender	score_4	85	Female	73,study_time	attendance	gender	score_4	90	Male	78,study_time	attendance	gender	score_5	88	Male	74,study_time	attendance	gender	score_6	90	Male	80,study_time	attendance	gender	score_6	95	Female	85,study_time	attendance	gender	score_7	96	Female	90,study_time	attendance	gender	score_8	98	Male	92
+False,False,False,True,False,False,False,False,False
+False,False,False,False,False,False,True,False,False
+False,True,False,False,False,False,False,False,False
+False,False,False,False,False,False,False,False,True
+True,False,False,False,False,False,False,False,False
+False,False,False,False,True,False,False,False,False
+False,False,False,False,False,False,False,True,False
+False,False,False,False,False,False,False,False,False
+False,False,True,False,False,False,False,False,False
+False,False,False,False,False,True,False,False,False

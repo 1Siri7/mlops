@@ -1,0 +1,13 @@
+streamlit
+matplotlib
+scikit-learn
+numpy
+pandas
+seaborn
+tensorflow
+pytest
+joblib
+dvc
+fastapi
+uvicorn
+pyda
